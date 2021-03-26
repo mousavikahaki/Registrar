@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"FeatureExtraction","l":"Class1"},{"p":"FeatureExtraction","l":"Class1Remote"},{"p":"FeatureExtraction","l":"FeatureExtractionMCRFactory"}]
