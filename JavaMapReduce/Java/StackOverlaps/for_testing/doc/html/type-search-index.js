@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"StackOverlaps","l":"Class1"},{"p":"StackOverlaps","l":"Class1Remote"},{"p":"StackOverlaps","l":"StackOverlapsMCRFactory"}]
